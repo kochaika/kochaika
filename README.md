@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <p align="center">
     <img height=200 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kochaika&show_icons=true&theme=onedark&hide_rank=true&custom_title=GitHub%20Stats" />&nbsp;&nbsp;
