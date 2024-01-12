@@ -9,7 +9,7 @@ Essentially, I'm working on making education better, online courses high-quality
 - SPBU Teacher
 - School 777 Teacher
 
-🇦🇲 Now Im' living in Armenia 
+🇦🇲 Now I'm living in Armenia 
 
 ⚡ Fun fact: I used to have for years a `pro100kot` nickname on GitHub, but I decided it looked too informal
 
@@ -36,7 +36,7 @@ Essentially, I'm working on making education better, online courses high-quality
 I'm a fan of all kinds automation
 
 ## Stay contact with me
-You can also check out my YouTube channel where I periodically post various mostly educational videos :)
+You can also check out my YouTube channel where I post various mostly educational videos :)
 <p align="center">
   <a href="https://www.instagram.com/chaika.const/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
