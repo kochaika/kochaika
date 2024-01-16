@@ -1,17 +1,21 @@
+<p align="center">
+    <img height=300 alt="Most Used Languages" src="./academy_header.png" />&nbsp;&nbsp;
+</p>
+
 # Hi there 👋
 
 🎓 I’m Educational Content Manager at [JetBrains Academy](https://academy.jetbrains.com/) and also a teacher at the university.   
 Essentially, I'm working on making education better, online courses high-quality, and the tasks in them more interesting and unique. 
 
 🔭 I have more than 6 years of experience in Education & Research. During that time, I worked:
-- JBR Researcher
-- ETU Researcher + teacher
-- SPBU Teacher
-- School 777 Teacher
+- Researcher at Mobile Robot Algorithms Lab in JetBrains Research
+- Researcher & Teacher at Intelligent mobile systems laboratory in Saint-Petersburg Electrotechnical University
+- Teacher at Saint Petersburg State University
+- Teacher at Supplementary Education Center at Saint Petersburg's School #777 
 
 🇦🇲 Now I'm living in Armenia 
 
-⚡ Fun fact: I used to have for years a `pro100kot` nickname on GitHub, but I decided it looked too informal
+⚡ Fun fact: I used to have for many years a `pro100kot` nickname on GitHub, but I decided it looked too informal
 
 ## Some my statictics
 <p align="center">
@@ -31,9 +35,13 @@ Essentially, I'm working on making education better, online courses high-quality
   <img src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino,opencv,qt,jenkins,bash,sqlite,selenium,ansible" />
 </p>
 
-
+<!--
 ## Pet projects
 I'm a fan of all kinds automation
+https://github.com/kochaika/traffic-notification-bot
+https://github.com/kochaika/ros-bagfile-extraction
+https://github.com/kochaika/telegraf-influxdb-grafana
+-->
 
 ## Stay contact with me
 You can also check out my YouTube channel where I post various mostly educational videos :)
@@ -48,16 +56,5 @@ You can also check out my YouTube channel where I post various mostly educationa
 </p>
 
 <!--
-**kochaika/kochaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
