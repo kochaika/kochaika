@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Most Used Languages" src="./academy_header.png" />&nbsp;&nbsp;
+    <img src="./academy_header.png" />&nbsp;&nbsp;
 </p>
 
 # Hi there 👋
