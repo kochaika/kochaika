@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="./academy_header.png" />&nbsp;&nbsp;
+        <!-- gif created by Karina Formanova (c) -->
+        <img src="./light_header.gif" />&nbsp;&nbsp;
 </p>
 
 # Hi there 👋
