@@ -1,6 +1,6 @@
 <p align="center">
         <!-- gif created by Karina Formanova (c) -->
-        <img src="./light_header.gif" />&nbsp;&nbsp;
+        <img src="./light_header.gif" />
 </p>
 
 # Hi there 👋
