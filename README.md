@@ -21,7 +21,7 @@ Essentially, I'm working on making education better, online courses high-quality
 ## Some my statictics
 <p align="center">
     <img height=200 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kochaika&show_icons=true&theme=onedark&hide_rank=true&custom_title=GitHub%20Stats" />&nbsp;&nbsp;
-    <img height=200 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochaika&theme=onedark&layout=compact" />&nbsp;&nbsp;
+    <!-- <img height=200 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochaika&theme=onedark&layout=compact" />&nbsp;&nbsp; -->
 </p>
 
 
