@@ -27,13 +27,13 @@ Essentially, I'm working on making education better, online courses high-quality
 
 ## What I'm working with now
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,py,docker,git,githubactions,nodejs" />
+  <img src="https://skillicons.dev/icons?i=linux,py,docker,git,githubactions,nodejs,raspberrypi" />
 </p>
 
 
 ## What I have worked with before
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,ros,raspberrypi,arduino,opencv,qt,jenkins,bash,sqlite,selenium,ansible" />
+  <img src="https://skillicons.dev/icons?i=c,ros,arduino,opencv,qt,jenkins,bash,sqlite,selenium,ansible" />
 </p>
 
 <!--
