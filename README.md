@@ -8,13 +8,11 @@
 🎓 I’m Educational Content Manager at [JetBrains Academy](https://academy.jetbrains.com/) and also a teacher at the [Constructor University](https://constructor.university/programs/undergraduate-education/software-data-and-technology).   
 Essentially, I'm working on making education better, online courses high-quality, and the tasks in them more interesting and unique. 
 
-🔭 I have more than 7 years of experience in Education & Research. During that time, I worked:
+🔭 I have more than 8 years of experience in Education & Research. During that time, I worked:
 - Researcher at Mobile Robot Algorithms Lab in JetBrains Research
 - Researcher & Teacher at Intelligent mobile systems laboratory in Saint-Petersburg Electrotechnical University
 - Teacher at Saint Petersburg State University
 - Teacher at Supplementary Education Center at Saint Petersburg's School #777 
-
-🇦🇲 Now I'm living in Armenia 
 
 ⚡ Fun fact: I used to have for many years a `pro100kot` nickname on GitHub, but I decided it looked too informal
 
